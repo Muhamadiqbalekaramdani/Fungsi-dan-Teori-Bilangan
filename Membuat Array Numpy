@@ -1,0 +1,8 @@
+#mebuat Array 1D
+x = n.array([1, 2, 3, 4, 5])
+print(x)
+
+
+# membuat array 2D (Matriks)
+m = np.array([[1, 2,], [3, 4,]])
+print(m)Mmbu
